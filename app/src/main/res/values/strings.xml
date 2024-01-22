@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CricketApp</string>
+    <string name="players">Players</string>
+    <string name="runs">%1$d Runs from %2$d Balls</string>
+    <string name="six_four">%1$d Fours, %2$d Sixes</string>
+    <string name="runs_conceded">%1$d Runs Conceded</string>
+    <string name="overs">%1$d Overs</string>
+    <string name="wickets">%1$d Wickets</string>
+    <string name="bowlers">Bowlers</string>
+    <string name="vs">VS</string>
+    <string name="dismissal_1">%1$s by %2$s</string>
+    <string name="dismissal_2">%1$s by %2$s. bowler: %3$s</string>
+</resources>
